@@ -8,7 +8,8 @@
       <change afterPath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/model/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/services/PersonService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner/AboutMethodPreference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/AboutMethodPreference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/beginner/AboutBitwiseOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/bin/beginner/AboutBitwiseOperators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginner/AboutBitwiseOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/AboutBitwiseOperators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../my_transpose.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../my_transpose.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../tetris/tetris_game.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../tetris/tetris_game.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../towers_of_hanoi.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../towers_of_hanoi.rb" afterDir="false" />
