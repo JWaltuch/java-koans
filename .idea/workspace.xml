@@ -7,6 +7,12 @@
       <change afterPath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/dao/PersonDao.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/model/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/services/PersonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/beginner/AboutObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/bin/beginner/AboutObjects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginner/AboutInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/AboutInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginner/AboutObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/AboutObjects.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../my_transpose.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../my_transpose.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../tetris/tetris_game.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../tetris/tetris_game.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../towers_of_hanoi.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../towers_of_hanoi.rb" afterDir="false" />
@@ -34,7 +40,7 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bSUtpthgaDynxang8y6RplqGMS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -58,5 +64,11 @@
       <updated>1588625205711</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1589987833444">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="294" y="246" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1589987833444" />
   </component>
 </project>
