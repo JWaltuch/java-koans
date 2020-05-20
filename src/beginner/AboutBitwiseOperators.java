@@ -37,6 +37,7 @@ public class AboutBitwiseOperators {
         assertEquals(a, true);
         assertEquals(i, 2);
         // How could you write the condition 'with a twist' to avoid this trap?
+        //    if (a) i++;
     }
 
     @Koan
