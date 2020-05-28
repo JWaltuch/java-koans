@@ -54,7 +54,7 @@ public class AboutEquality {
         @Override
         public int hashCode() {
             // @see http://download.oracle.com/javase/6/docs/api/java/lang/Object.html#hashCode()
-            return Integer.parseInt(this.name) + this.horsepower;
+            return this.name.hashCode() + this.horsepower;
         }
     }
 
@@ -109,7 +109,7 @@ public class AboutEquality {
 
         @Override
         public int hashCode() {
-            return 4000;
+            return color.hashCode();
         }
 
         @Override
