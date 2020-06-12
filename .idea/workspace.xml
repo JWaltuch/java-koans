@@ -8,8 +8,9 @@
       <change afterPath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/model/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/services/PersonService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/bin/intermediate/AboutFileIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/bin/intermediate/AboutFileIO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate/AboutFileIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/AboutFileIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bin/intermediate/AboutInnerClasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/bin/intermediate/AboutInnerClasses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config/file_hashes.dat" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/file_hashes.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediate/AboutInnerClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/AboutInnerClasses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../my_transpose.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../my_transpose.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../tetris/tetris_game.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../tetris/tetris_game.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../towers_of_hanoi.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../towers_of_hanoi.rb" afterDir="false" />
@@ -63,9 +64,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="294" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1590684081925">
+    <state x="294" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1591991329738">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="294" y="246" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1590684081925" />
+    <state x="294" y="246" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1591991329738" />
   </component>
 </project>
