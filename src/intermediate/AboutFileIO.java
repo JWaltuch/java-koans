@@ -94,15 +94,20 @@ public class AboutFileIO {
         // Add the loop to go through the file line by line and add the line
         // to the StringBuffer
 
-        FileReader fr = new FileReader(file);
-        BufferedReader br = null;
+        BufferedReader br = new BufferedReader(new FileReader(file));
+
         try {
-            br = new BufferedReader(fr);
-            for (int i = 0; i < 2; i++) {
-                sb.append(br.readLine());
-                if (i + 1 < 2) {
-                    sb.append("\n");
-                }
+            // read first line
+            String line = br.readLine();
+            if (line == null) return;
+
+            // read every other line
+            sb.append(line);
+            line = br.readLine();
+            while (line != null) {
+                sb.append("\n");
+                sb.append(line);
+                line = br.readLine();
             }
         } finally {
             // anytime you open access to a file, you should close it or you may
